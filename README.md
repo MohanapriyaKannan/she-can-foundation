@@ -35,17 +35,6 @@ This project is designed to support and empower women through education, mentors
 
 ---
 
-# 📂 Project Structure
-
-she-can-foundation/
-│
-├── frontend/
-│   └── index.html
-│
-└── backend/
-    ├── server.js
-    └── package.json
-
 
 # 🎥 Demo Video
 https://drive.google.com/file/d/1MRYcmE1s8scscKMr1vrE5nSSfHdQ9FCd/view?usp=sharing
