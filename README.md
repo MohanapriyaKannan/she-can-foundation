@@ -38,23 +38,3 @@ This project is designed to support and empower women through education, mentors
 
 # 🎥 Demo Video
 https://drive.google.com/file/d/1MRYcmE1s8scscKMr1vrE5nSSfHdQ9FCd/view?usp=sharing
-
-# 💡 Future Improvements
-
-* Authentication System
-* Admin Dashboard
-* Email Notifications
-* Volunteer Registration System
-* Form Validation
-* Deployment of Backend APIs
-
----
-
-# 👩‍💻 Developed By
-
-**Mohanapriya Kannan**
-
-Passionate about Full Stack Development and Backend Engineering 🚀
-
-```
-```
