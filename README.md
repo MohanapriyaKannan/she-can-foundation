@@ -1,6 +1,5 @@
 🌸 She Can Foundation
 
-A responsive full stack website created for the **She Can Foundation Internship Selection Task**.
 
 This project is designed to support and empower women through education, mentorship, and opportunities. The website includes a modern user interface, contact form, backend integration, and MongoDB database connectivity.
 
